@@ -1,5 +1,5 @@
 Usage:
-pythonn .\main.py
+python .\main.py
 
 Requiremennts:
 pip install requests openpyxl
